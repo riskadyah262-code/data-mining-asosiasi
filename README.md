@@ -25,7 +25,7 @@ git clone https://github.com/riskadyah262-code/data-mining-asosiasi.git
 
 ## 🔗 Link
 - 📊 Portfolio: https://sites.google.com/view/riskadyah-project/market-basket-analysis
-- 🎥 YouTube: https://youtu.be/ynpaGMj-XAM
+- 🎥 YouTube: https://youtu.be/08RGbPYMa8U?si=zCOHYK1CnQ78_Gkx
 
 ## 👩‍💻 Author
 **Riskadyah** - [GitHub](https://github.com/riskadyah262-code)
